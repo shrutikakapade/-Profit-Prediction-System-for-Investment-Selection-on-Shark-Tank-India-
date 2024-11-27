@@ -12,3 +12,4 @@
 <h3>Model Selection:</h3>
 - We have to train a multiple linear regression model to predict the profit that a company will make based on how much they spend on R & D, Administration and Marketing.<br>
 - By analyzing the profit we will decide which company we should invest into and call on Shark Tank Season 4.
+<h3>Visualize the result to check accuracy:</h3>To evaluate the accuracy of our model, we will create a scatter plot comparing the actual values (y_test) and the predicted values (y_pred). This visualization allows us to observe how closely the predicted values align with the actual values, providing insights into the model's performance and reliability.
